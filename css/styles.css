@@ -1,0 +1,10 @@
+body {
+    font-family: arial;
+    background-color:bisque;
+}
+
+td {
+    border: inset;
+    text-align: center;
+    padding: 5px;
+}
